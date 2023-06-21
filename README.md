@@ -1,1 +1,1 @@
-# mentoring
+Repo for providing example code for mentoring purposes
